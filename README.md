@@ -2,9 +2,9 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17561722.svg)](https://doi.org/10.5281/zenodo.17561722)
+<a href=" https://colab.research.google.com/drive/1RNp-cKriQO_tZ9MkTuBLfmvdL4DqZpBc"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="colab"></a></p>
 
-
-> **"The most perfect world for mice became their gravest tomb."** — John B. Calhoun (1973)
+**"The most perfect world for mice became their gravest tomb."** — John B. Calhoun (1973)
 
 A computational model that reproduces the catastrophic collapse of John B. Calhoun's infamous **Universe 25** experiment (1968-1973), where a mouse population in utopia—unlimited food, water, optimal temperature, no predators—collapsed to extinction despite ideal conditions.
 
