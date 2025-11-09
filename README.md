@@ -39,7 +39,7 @@ At extinction, survivors occupy low-resource zones while abundant food sits unus
 ## 📊 Results Visualization
 
 ### Lineage Tree: Collapse Choreography
-![Lineage dynamics showing explosive diversification (Phase 1-2), catastrophic pruning (Phase 3), and horizontal persistence without reproduction (Phase 4-5)](https://via.placeholder.com/800x400?text=Lineage+Tree+Visualization)
+([lineage.pdf](https://github.com/user-attachments/files/23435306/lineage.pdf))
 
 ### Five-Phase Structure
 - **Phase 1 (7.1%)**: Growth — Exponential expansion
