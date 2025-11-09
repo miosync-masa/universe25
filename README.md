@@ -39,7 +39,7 @@ At extinction, survivors occupy low-resource zones while abundant food sits unus
 ## 📊 Results Visualization
 
 ### Lineage Tree: Collapse Choreography
-([lineage.pdf](https://github.com/user-attachments/files/23435306/lineage.pdf))
+<img width="790" height="590" alt="Image" src="https://github.com/user-attachments/assets/53daa82c-de32-4dfe-9b0e-a0ad96877c58" />
 
 ### Five-Phase Structure
 - **Phase 1 (7.1%)**: Growth — Exponential expansion
